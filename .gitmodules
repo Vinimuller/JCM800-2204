@@ -1,0 +1,3 @@
+[submodule "libraries/raksAltiumLib"]
+	path = libraries/raksAltiumLib
+	url = https://github.com/Vinimuller/raksAltiumLib.git
